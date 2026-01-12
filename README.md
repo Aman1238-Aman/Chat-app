@@ -75,8 +75,7 @@ npm start
 
 
 Open in browser
-
-http://localhost:3000
+http://127.0.0.1:5500/Chat-app-main/
 
 🚀 Why This Project Matters
 
