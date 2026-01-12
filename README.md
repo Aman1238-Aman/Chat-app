@@ -56,7 +56,7 @@ Scalable application design
 
 Clone the repository
 
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/Aman1238-Aman/Chat-app.git
 
 
 Navigate to the project directory
